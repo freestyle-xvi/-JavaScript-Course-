@@ -1,0 +1,16 @@
+body {
+    font-family: BatmanForeverOutline;
+    text-align: center;
+    color: #343d46;
+}
+
+h1,
+h2,
+h3 {
+    font-size: 53px;
+}
+
+p {
+    font-size: 53px;
+    font-family: Nasalization;
+}
